@@ -1,4 +1,4 @@
-# README #
+# Overview
 
 ### What it does ###
 The goal of this project is to develop a Checkers game that provides certain scenarios for a user to fulfill the established requirements of this project. The game will provide a complete interface where users can play a multiplayer game.
